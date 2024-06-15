@@ -1,2 +1,5 @@
 I am practicing git
 Now we are doing Git GUI
+
+This part should be reverted after pushing, Ok!
+If not you did something wrong.
