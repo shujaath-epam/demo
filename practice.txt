@@ -1,1 +1,2 @@
 I am practicing git
+Now we are doing Git GUI
